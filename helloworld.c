@@ -10,5 +10,7 @@ int main() {
 
   printf("1 personal message, do not merge it please\n");
 
+  printf("Hello Angers, how are you ?\n");
+
   return(0);
 }
