@@ -14,5 +14,7 @@ int main() {
   printf("Hello Paris, how are you ?\n");
 >>>>>>> bf33af8... first commit in dev3 branch
 
+  printf("Hello Angers, how are you ?\n");
+
   return(0);
 }
