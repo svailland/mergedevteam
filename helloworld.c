@@ -10,5 +10,7 @@ int main() {
 
   printf("Excusez moi, vous êtes belge, comment allez vous, une fois ?\n");
 
+  printf("Excusez moi de nouveau, auriez vous l'heure, une fois ?\n");
+
   return(0);
 }
