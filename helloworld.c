@@ -22,5 +22,7 @@ int main() {
 
   printf("Merci pour le renseignement, pous vous remerciez, je vous offre une frite, une fois ?\n");
 
+  printf("Excusez moi, vous êtes français, comment allez vous ?\n");
+
   return(0);
 }
