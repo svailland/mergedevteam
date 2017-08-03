@@ -8,5 +8,7 @@ int main() {
 
   printf("Hello Paris, how are you ?\n");
 
+  printf("1 personal message, do not merge it please\n");
+
   return(0);
 }
