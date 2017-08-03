@@ -6,5 +6,7 @@ int main() {
 
   printf("Hello World again, how are you ?\n");
 
+  printf("Hello Paris, how are you ?\n");
+
   return(0);
 }
