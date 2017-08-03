@@ -8,5 +8,7 @@ int main() {
 
   printf("Hello World again and again, can you hear me ?\n");
 
+  printf("Excusez moi, vous êtes belge, comment allez vous, une fois ?\n");
+
   return(0);
 }
