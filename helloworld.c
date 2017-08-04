@@ -6,15 +6,21 @@ int main() {
 
   printf("Hello World again, how are you ?\n");
 
-<<<<<<< HEAD
   printf("Hello World again and again, can you hear me ?\n");
 
   printf("Hello World again and again and again, do you speak english ?\n");
-=======
+
   printf("Hello Paris, how are you ?\n");
->>>>>>> bf33af8... first commit in dev3 branch
 
   printf("Hello Angers, how are you ?\n");
+
+  printf("Excusez moi, vous êtes belge, comment allez vous, une fois ?\n");
+
+  printf("Excusez moi de nouveau, auriez vous l'heure, une fois ?\n");
+
+  printf("Excusez moi à nouveau, pourriez vous m'indiquer le chemin de l'ESEO, une fois ?\n");
+
+  printf("Merci pour le renseignement, pous vous remerciez, je vous offre une frite, une fois ?\n");
 
   return(0);
 }
